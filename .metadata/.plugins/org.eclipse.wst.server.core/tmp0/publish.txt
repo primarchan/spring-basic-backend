@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Wed Sep 01 12:34:43 KST 2021
+org.eclipse.jst.jee.server\:lec17Pjt001=C\:\\apache-tomcat-9.0.44\\wtpwebapps\\lec17Pjt001
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\boltc\\.m2\\repository\\org\\springframework\\spring-web\\4.1.0.RELEASE\\spring-web-4.1.0.RELEASE.jar=C\:\\apache-tomcat-9.0.44\\wtpwebapps\\lec17Pjt001\\WEB-INF\\lib\\spring-web-4.1.0.RELEASE.jar

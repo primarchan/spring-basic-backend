@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.context.support.GenericApplicationContext"/>
+<fullyQualifiedTypeName name="testPrj01.TransportationWalk"/>
+<fullyQualifiedTypeName name="ex00.toy.ElectronicCarToy"/>
+<fullyQualifiedTypeName name="ex00.toy.ElectronicRobotToy"/>
+<fullyQualifiedTypeName name="ex00.battery.Battery"/>
+<fullyQualifiedTypeName name="ex00.battery.NormalBattery"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
+</qualifiedTypeNameHistroy>

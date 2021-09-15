@@ -1,0 +1,4 @@
+
+9월 01, 2021 02:53:13.03 NEW SESSION
+9월 01, 2021 02:53:13.03 [1160:15688:0901/025313.023:ERROR:device_event_log_impl.cc(214)] [02:53:13.022] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+9월 01, 2021 03:20:45.50 [14732:19720:0901/032045.505:ERROR:device_event_log_impl.cc(214)] [03:20:45.505] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
